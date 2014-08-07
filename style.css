@@ -1,0 +1,45 @@
+div, p, h2, h1 {
+	margin: 0;
+}
+
+p, td, th {
+	color: blue;
+}
+
+h2, .red {
+	color: red;
+}
+
+img {
+	width: 200px;
+}
+
+#monkeypic{
+	width: 600px;
+}
+
+.center{
+	text-align: center;
+	/*background-color: blue;*/
+}
+
+.center2{
+	width: 80%;
+	margin: auto;
+	background-color: red;
+}
+
+.shoval {
+	background-color: rgb(200, 200, 200);
+	padding-left: 10px;
+}
+
+.penguin {
+	background-color: rgb(200, 0, 0);
+	margin-bottom: 20px;
+}
+
+#click{
+	width: 200px;
+	font-size: 200px;
+}
